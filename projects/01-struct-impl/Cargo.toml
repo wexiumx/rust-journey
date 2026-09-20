@@ -1,5 +1,5 @@
 [package]
-name = "struct-impl-01"
+name = "struct-impl"
 version = "0.1.0"
 edition = "2024"
 
