@@ -1,6 +1,6 @@
-/home/wexiumx/Documents/rustlings/target/debug/deps/clippy2-19a2bdec48c7bc65.d: exercises/22_clippy/clippy2.rs Cargo.toml
+/home/wexiumx/Documents/rust-journey/rustlings/target/debug/deps/clippy2-19a2bdec48c7bc65.d: exercises/22_clippy/clippy2.rs Cargo.toml
 
-/home/wexiumx/Documents/rustlings/target/debug/deps/libclippy2-19a2bdec48c7bc65.rmeta: exercises/22_clippy/clippy2.rs Cargo.toml
+/home/wexiumx/Documents/rust-journey/rustlings/target/debug/deps/libclippy2-19a2bdec48c7bc65.rmeta: exercises/22_clippy/clippy2.rs Cargo.toml
 
 exercises/22_clippy/clippy2.rs:
 Cargo.toml:

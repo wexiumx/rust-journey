@@ -1,1 +1,1 @@
-/home/wexiumx/Documents/rustlings/target/debug/intro1: /home/wexiumx/Documents/rustlings/exercises/00_intro/intro1.rs
+/home/wexiumx/Documents/rust-journey/rustlings/target/debug/intro1: /home/wexiumx/Documents/rust-journey/rustlings/exercises/00_intro/intro1.rs

@@ -1,1 +1,1 @@
-/home/wexiumx/Documents/rustlings/target/debug/quiz2: /home/wexiumx/Documents/rustlings/exercises/quizzes/quiz2.rs
+/home/wexiumx/Documents/rust-journey/rustlings/target/debug/quiz2: /home/wexiumx/Documents/rust-journey/rustlings/exercises/quizzes/quiz2.rs

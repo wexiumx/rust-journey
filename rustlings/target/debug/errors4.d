@@ -1,1 +1,1 @@
-/home/wexiumx/Documents/rustlings/target/debug/errors4: /home/wexiumx/Documents/rustlings/exercises/13_error_handling/errors4.rs
+/home/wexiumx/Documents/rust-journey/rustlings/target/debug/errors4: /home/wexiumx/Documents/rust-journey/rustlings/exercises/13_error_handling/errors4.rs

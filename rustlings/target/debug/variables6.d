@@ -1,1 +1,1 @@
-/home/wexiumx/Documents/rustlings/target/debug/variables6: /home/wexiumx/Documents/rustlings/exercises/01_variables/variables6.rs
+/home/wexiumx/Documents/rust-journey/rustlings/target/debug/variables6: /home/wexiumx/Documents/rust-journey/rustlings/exercises/01_variables/variables6.rs

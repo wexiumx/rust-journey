@@ -1,1 +1,1 @@
-/home/wexiumx/Documents/rustlings/target/debug/iterators1: /home/wexiumx/Documents/rustlings/exercises/18_iterators/iterators1.rs
+/home/wexiumx/Documents/rust-journey/rustlings/target/debug/iterators1: /home/wexiumx/Documents/rust-journey/rustlings/exercises/18_iterators/iterators1.rs

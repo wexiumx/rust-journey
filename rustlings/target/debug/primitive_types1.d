@@ -1,1 +1,1 @@
-/home/wexiumx/Documents/rustlings/target/debug/primitive_types1: /home/wexiumx/Documents/rustlings/exercises/04_primitive_types/primitive_types1.rs
+/home/wexiumx/Documents/rust-journey/rustlings/target/debug/primitive_types1: /home/wexiumx/Documents/rust-journey/rustlings/exercises/04_primitive_types/primitive_types1.rs
